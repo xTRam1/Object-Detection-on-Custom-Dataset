@@ -6,7 +6,8 @@ YOLOv5: https://github.com/ultralytics/yolov5, https://zenodo.org/record/3908560
 Faster-RCNN: https://arxiv.org/abs/1506.01497
 
 Detectron2: 
-```@misc{wu2019detectron2,
+```
+@misc{wu2019detectron2,
   author =       {Yuxin Wu and Alexander Kirillov and Francisco Massa and
                   Wan-Yen Lo and Ross Girshick},
   title =        {Detectron2},
