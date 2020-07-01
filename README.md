@@ -12,8 +12,8 @@ Detectron2:
   title =        {Detectron2},
   howpublished = {\url{https://github.com/facebookresearch/detectron2}},
   year =         {2019}
-}
-'''
+}'''
+
 MobileNetv2: https://arxiv.org/abs/1801.04381
 
 SSD: https://arxiv.org/abs/1512.02325
